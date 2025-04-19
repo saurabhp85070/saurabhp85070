@@ -78,9 +78,6 @@
 - ✅ [Django Web Framework](https://www.coursera.org/account/accomplishments/verify/K3CTQ2GGM6MQa)
 - ✅ [APIs](https://www.coursera.org/account/accomplishments/verify/S22V3QZ2A6VT)
 
-
-> _(Replace or add certifications with your actual links & titles)_
-
 ---
 
 ## 📫 Let's Connect
