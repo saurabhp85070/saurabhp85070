@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/909d2a15-7c79-411d-8472-e117a1f392f0)
+
+
 <h1 align="center">Hi there 👋, I'm Saurabh Prakash</h1>
 <h3 align="center">A passionate developer and data enthusiast</h3>
 
